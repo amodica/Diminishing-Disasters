@@ -1,0 +1,49 @@
+/* css from demo, https://github.com/AdeleD/react-paginate/blob/master/demo/js/demo.js */
+
+.pagination-table {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0 5rem;
+}
+
+/* classname of li tags */
+/* .page-number {
+} */
+
+/* classname of a tags */
+.page-link,
+.prev-link,
+.next-link {
+  border-radius: 7px;
+  padding: 0.1rem 1rem;
+  border: gray 1px solid;
+  cursor: pointer;
+}
+
+/* active a tag */
+.active-link {
+  background-color: #0366d6;
+  border-color: transparent;
+  color: white;
+  min-width: 32px;
+}
+
+/* previous li tag */ /* next li tag */
+.prev-page,
+.next-page {
+  border-color: transparent;
+}
+
+/* disabled previous and next buttons */
+.dis-but {
+  cursor: default;
+}
+
+/* disabled a tags for previous/next buttons */
+.dis-link {
+  color: gray;
+  cursor: default;
+}

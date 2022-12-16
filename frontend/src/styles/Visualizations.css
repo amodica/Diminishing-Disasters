@@ -1,0 +1,13 @@
+.center-svg {
+    display: block;
+    margin: auto;
+}
+
+.center-text {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+div > div {
+    text-align: center;
+}

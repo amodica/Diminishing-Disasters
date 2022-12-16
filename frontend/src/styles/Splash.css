@@ -1,0 +1,15 @@
+.bg {
+    background-image: url('../images/test.jpg');
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .img {
+      height: auto;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 20px;
+  }

@@ -1,0 +1,704 @@
+{
+	"info": {
+		"_postman_id": "2e2bf133-d989-4dd6-8976-b78eba6fb2ef",
+		"name": "Diminishing Disasters API",
+		"description": "The Diminishing Disasters API is designed to help make individuals learn about and donate to natural disaster aid relief around the world.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+        {
+            "name": "GET status",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        ""
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET countries",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});",
+							"pm.test(\"Request retrieves 10 countries\", function() {",
+							"    const countries = pm.response.json().countries;",
+							"    pm.expect(Object.keys(countries).length).to.eq(10);",
+							"});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET disasters",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});",
+							"pm.test(\"Request retrieves 10 disasters\", function() {",
+							"    const disasters = pm.response.json().disasters;",
+							"    pm.expect(Object.keys(disasters).length).to.eq(10);",
+							"});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "disasters"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET organizations",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});",
+							"pm.test(\"Request retrieves 10 organizations\", function() {",
+							"    const organizations = pm.response.json().organizations;",
+							"    pm.expect(Object.keys(organizations).length).to.eq(10);",
+							"});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET country with id 1",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});",
+							"pm.test(\"Has id 1\", function() {",
+							"    const responseJSON = pm.response.json();",
+							"    const id = responseJSON[\"id\"];",
+							"    pm.expect(id).to.eq(1)",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries/1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries",
+						"1"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET disaster with id 1",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});",
+							"pm.test(\"Has id 1\", function() {",
+							"    const responseJSON = pm.response.json();",
+							"    const id = responseJSON[\"id\"];",
+							"    pm.expect(id).to.eq(1)",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters/1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "disasters",
+						"1"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET organization with id 1",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations/1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations",
+						"1"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "GET countries filtered by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries?language=spanish",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries?language=spanish"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET disasters filtered by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters?month=October",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "disasters?month=October"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET organizations filtered by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations?rating=3",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations?rating=3"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "GET countries sorted by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries?sort=name",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries?",
+						"sort=name"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET disasters sorted by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters?sort=year",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "disasters?sort=year"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET organizations sorted by an attribute",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations?sort=income",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations?sort=income"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "GET countries sorted and filtered by different attributes",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries?sort=name&language=spanish",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries?sort=name&language=spanish"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET disasters sorted and filtered by different attributes",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters?sort=year&month=October",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+						"disasters?sort=year&month=October"
+                    ]
+                }
+            },
+            "response": []
+        },
+		{
+            "name": "GET organizations sorted and filtered by different attributes",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 200\", function() {",
+                            "    pm.response.to.have.status(200);",
+                            "});",
+							"pm.test(\"Request valid and has body\", function() {",
+							"    pm.response.to.be.ok;",
+							"    pm.response.to.be.withBody;",
+							"    pm.response.to.be.json;",
+							"});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations?sort=income&rating=3",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations?sort=income&rating=3"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Invalid GET for specific country ID",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 404\", function() {",
+                            "    pm.response.to.have.status(404);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/countries/-1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "countries",
+						"-1"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "GET disaster with invalid id",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 404\", function() {",
+                            "    pm.response.to.have.status(404);",
+                            "});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/disasters/-1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "disasters",
+						"-1"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "GET organization with invalid id",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Request has status 404\", function() {",
+                            "    pm.response.to.have.status(404);",
+                            "});"
+
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{baseUrl}}/organizations/-1",
+                    "host": [
+                        "{{baseUrl}}"
+                    ],
+                    "path": [
+                        "organizations",
+						"-1"
+                    ]
+                }
+            },
+            "response": []
+        }
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "https://api.diminishingdisasters.me"
+		}
+	]
+}

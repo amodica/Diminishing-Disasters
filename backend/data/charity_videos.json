@@ -1,0 +1,780 @@
+{
+  "charityVideos": [
+    {
+      "name": "Abraham Initiatives",
+      "videoLink": "https://www.youtube.com/watch?v=DdL2eWcNNks"
+    },
+    {
+      "name": "Action Against Hunger USA",
+      "videoLink": "https://www.youtube.com/watch?v=tJw6rccoaRU"
+    },
+    {
+      "name": "Acumen",
+      "videoLink": "https://www.youtube.com/watch?v=0u6sPSODaOA"
+    },
+    {
+      "name": "ADRA International",
+      "videoLink": "https://www.youtube.com/watch?v=TRM7912UbVM"
+    },
+    {
+      "name": "Aga Khan Foundation, USA",
+      "videoLink": "https://www.youtube.com/watch?v=Jqv2kxfGWpY"
+    },
+    {
+      "name": "Alight (formerly American Refugee Committee)",
+      "videoLink": "https://www.youtube.com/watch?v=LrrIw407doE"
+    },
+    {
+      "name": "All God's Children",
+      "videoLink": "https://www.youtube.com/watch?v=KJvgxSrXT-c"
+    },
+    {
+      "name": "All God's Children International",
+      "videoLink": "https://www.youtube.com/watch?v=ndepkiPdwpY"
+    },
+    {
+      "name": "Amazima Ministries",
+      "videoLink": "https://www.youtube.com/watch?v=fYgcgn55zT4"
+    },
+    {
+      "name": "American Friends of Leket Israel",
+      "videoLink": "https://www.youtube.com/watch?v=RTYwUzE4ESU"
+    },
+    {
+      "name": "American Friends of Neve Shalom/Wahat al-Salam",
+      "videoLink": "https://www.youtube.com/watch?v=g6MdjnH4Nr8"
+    },
+    {
+      "name": "American Himalayan Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=qNv0E_6i4zE"
+    },
+    {
+      "name": "American Nicaraguan Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=IsIaygapFR4"
+    },
+    {
+      "name": "American-Scandinavian Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=nlfB5P9Avgs"
+    },
+    {
+      "name": "Americares",
+      "videoLink": "https://www.youtube.com/watch?v=kBOJsd58ftc"
+    },
+    {
+      "name": "Amigos de las Américas",
+      "videoLink": "https://www.youtube.com/watch?v=d-wAVneNdO4"
+    },
+    {
+      "name": "Amigos for Christ",
+      "videoLink": "https://www.youtube.com/watch?v=1wJz4ObUhd0"
+    },
+    {
+      "name": "Amoud Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=mIKZyXqsXZ4"
+    },
+    {
+      "name": "Anera",
+      "videoLink": "https://www.youtube.com/watch?v=CvNm1PpzIg0"
+    },
+    {
+      "name": "Armenian General Benevolent Union",
+      "videoLink": "https://www.youtube.com/watch?v=RSvHNjm0PmQ"
+    },
+    {
+      "name": "Asha for Education",
+      "videoLink": "https://www.youtube.com/watch?v=MGrki0prVDc"
+    },
+    {
+      "name": "Ashoka",
+      "videoLink": "https://www.youtube.com/watch?v=ycslk2K6S-8"
+    },
+    {
+      "name": "BRAC USA",
+      "videoLink": "https://www.youtube.com/watch?v=S1ynfGpyTF4"
+    },
+    {
+      "name": "Back2Back Ministries",
+      "videoLink": "https://www.youtube.com/watch?v=FCIIWNIJhRE"
+    },
+    {
+      "name": "BlinkNow Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=gAUgV8sKNbk"
+    },
+    {
+      "name": "Books For Africa",
+      "videoLink": "https://www.youtube.com/watch?v=qDXrPO7TNgY"
+    },
+    {
+      "name": "Brother's Brother Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=u9KOEb6tf44"
+    },
+    {
+      "name": "buildOn",
+      "videoLink": "https://www.youtube.com/watch?v=200pw5HynJ8"
+    },
+    {
+      "name": "CARE",
+      "videoLink": "https://www.youtube.com/watch?v=Ul601bCR79M"
+    },
+    {
+      "name": "CFK",
+      "videoLink": "https://www.youtube.com/watch?v=xy3-NMlwpjc"
+    },
+    {
+      "name": "CURE International",
+      "videoLink": "https://www.youtube.com/watch?v=1Qf4UbrOozg"
+    },
+    {
+      "name": "Cambodian Children's Fund",
+      "videoLink": "https://www.youtube.com/watch?v=RD0JHn78My4"
+    },
+    {
+      "name": "Camfed USA Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=wHSPoy89CdI"
+    },
+    {
+      "name": "Canvasback Missions, Inc.",
+      "videoLink": "https://www.youtube.com/watch?v=tb1j9k7Bb7U"
+    },
+    {
+      "name": "Catholic Medical Mission Board",
+      "videoLink": "https://www.youtube.com/watch?v=Abde2efoC8U"
+    },
+    {
+      "name": "Center for Justice and International Law",
+      "videoLink": "https://www.youtube.com/watch?v=AqbbyWk-bHE"
+    },
+    {
+      "name": "Child Aid",
+      "videoLink": "https://www.youtube.com/watch?v=-J4D9O1ct9I"
+    },
+    {
+      "name": "Child Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=9FeKahhrwqk"
+    },
+    {
+      "name": "Children Incorporated",
+      "videoLink": "https://www.youtube.com/watch?v=olnghd9OyzI"
+    },
+    {
+      "name": "Children International",
+      "videoLink": "https://www.youtube.com/watch?v=3yoZYA_DxUY"
+    },
+    {
+      "name": "Children of Armenia Fund",
+      "videoLink": "https://www.youtube.com/watch?v=G9PP5Vz1lSQ"
+    },
+    {
+      "name": "Children of the Nations",
+      "videoLink": "https://www.youtube.com/watch?v=2yO-_d9dhyY"
+    },
+    {
+      "name": "Children's Hunger Fund",
+      "videoLink": "https://www.youtube.com/watch?v=521Mtj8tsOc"
+    },
+    {
+      "name": "Children's Shelter of Cebu",
+      "videoLink": "https://www.youtube.com/watch?v=2ck6D-oqJB8"
+    },
+    {
+      "name": "Christian Relief Fund",
+      "videoLink": "https://www.youtube.com/watch?v=zH_eIvqMvNA"
+    },
+    {
+      "name": "Church World Service",
+      "videoLink": "https://www.youtube.com/watch?v=ut9H2Hp2OLM"
+    },
+    {
+      "name": "CitiHope Relief & Development",
+      "videoLink": "https://www.youtube.com/watch?v=SlKffnqUGSg"
+    },
+    {
+      "name": "Common Hope",
+      "videoLink": "https://www.youtube.com/watch?v=3j8YfROsXSA"
+    },
+    {
+      "name": "Community Partners International",
+      "videoLink": "https://www.youtube.com/watch?v=nCJelFj9aMA"
+    },
+    {
+      "name": "Concern Worldwide US, Inc.",
+      "videoLink": "https://www.youtube.com/watch?v=oGqDyoTcDKk"
+    },
+    {
+      "name": "Coptic Orphans",
+      "videoLink": "https://www.youtube.com/watch?v=GOf9N1v24lw"
+    },
+    {
+      "name": "Crisis Aid International",
+      "videoLink": "https://www.youtube.com/watch?v=HIepMKO1p84"
+    },
+    {
+      "name": "DKT International",
+      "videoLink": "https://www.youtube.com/watch?v=xmC5VvOcgpQ"
+    },
+    {
+      "name": "Danita's Children",
+      "videoLink": "https://www.youtube.com/watch?v=JOReyMiyvcE"
+    },
+    {
+      "name": "Direct Relief",
+      "videoLink": "https://www.youtube.com/watch?v=kJ_qaModkX4"
+    },
+    {
+      "name": "Doctors Without Borders, USA",
+      "videoLink": "https://www.youtube.com/watch?v=JA4lG9bfVgM"
+    },
+    {
+      "name": "ECHO",
+      "videoLink": "https://www.youtube.com/channel/UCJwzJ-a85J1m7f3JsWH-BKw"
+    },
+    {
+      "name": "EarthRights International",
+      "videoLink": "https://www.youtube.com/watch?v=mWGmCjNMyys"
+    },
+    {
+      "name": "Empowering Lives International",
+      "videoLink": "https://www.youtube.com/watch?v=0d5j81F7kOk"
+    },
+    {
+      "name": "Engineering Ministries International",
+      "videoLink": "https://www.youtube.com/watch?v=_A3JZkPQ9n0"
+    },
+    {
+      "name": "Episcopal Relief & Development",
+      "videoLink": "https://www.youtube.com/watch?v=KE_vkbvuJdw"
+    },
+    {
+      "name": "Esperança",
+      "videoLink": "https://www.youtube.com/watch?v=bZddXbnOSog"
+    },
+    {
+      "name": "Ezra International",
+      "videoLink": "https://www.youtube.com/watch?v=ZKLVJEoyGa8"
+    },
+    {
+      "name": "Faith In Practice",
+      "videoLink": "https://www.youtube.com/watch?v=MENPGYXij44"
+    },
+    {
+      "name": "Feed My Starving Children",
+      "videoLink": "https://www.youtube.com/watch?v=jYATxeDmuzM"
+    },
+    {
+      "name": "Fistula Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=LossriBD2Js"
+    },
+    {
+      "name": "Focus Humanitarian Assistance USA",
+      "videoLink": "https://www.youtube.com/watch?v=mmFE_rRMYnI"
+    },
+    {
+      "name": "Friends Without A Border",
+      "videoLink": "https://www.youtube.com/watch?v=9s3heELN7vw"
+    },
+    {
+      "name": "Friends of Israel Disabled Veterans – Beit Halochem",
+      "videoLink": "https://www.youtube.com/watch?v=VuhiU_bnfgE"
+    },
+    {
+      "name": "Friends of the Israel Defense Forces",
+      "videoLink": "https://www.youtube.com/watch?v=78fFPQPao5s"
+    },
+    {
+      "name": "Fund for Armenian Relief",
+      "videoLink": "https://www.youtube.com/watch?v=VNqEQDUwMNk"
+    },
+    {
+      "name": "German Marshall Fund of the US",
+      "videoLink": "https://www.youtube.com/watch?v=kcjeDPZiTrg"
+    },
+    {
+      "name": "Global Greengrants Fund",
+      "videoLink": "https://www.youtube.com/watch?v=_2bZnx1mVSE"
+    },
+    {
+      "name": "Global Health Ministries",
+      "videoLink": "https://www.youtube.com/watch?v=trikr7bk2Sg"
+    },
+    {
+      "name": "Global Links",
+      "videoLink": "https://www.youtube.com/watch?v=mcgRRQCEuRM"
+    },
+    {
+      "name": "GlobalGiving",
+      "videoLink": "https://www.youtube.com/watch?v=8AFw-mAeiTc"
+    },
+    {
+      "name": "Grassroot Soccer",
+      "videoLink": "https://www.youtube.com/watch?v=oRrjw_oxC-U"
+    },
+    {
+      "name": "Grassroots International",
+      "videoLink": "https://www.youtube.com/watch?v=1cYXq_t6ZF8"
+    },
+    {
+      "name": "Haitian Health Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=g_QMeMVVpOA"
+    },
+    {
+      "name": "Healing Hands International",
+      "videoLink": "https://www.youtube.com/watch?v=Pq-fmlgtLwg"
+    },
+    {
+      "name": "Health Equity International",
+      "videoLink": "https://www.youtube.com/watch?v=E5t1aSmx83c"
+    },
+    {
+      "name": "HealthRight International",
+      "videoLink": "https://www.youtube.com/watch?v=oqbmXx9U8E4"
+    },
+    {
+      "name": "Heart for Lebanon Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=_RTXHkiBUPU"
+    },
+    {
+      "name": "Heart to Heart International",
+      "videoLink": "https://www.youtube.com/watch?v=QMydVNQY40o"
+    },
+    {
+      "name": "Help the Helpless",
+      "videoLink": "https://www.youtube.com/watch?v=JkNOWkyYLWI"
+    },
+    {
+      "name": "Helping Hand for Relief and Development",
+      "videoLink": "https://www.youtube.com/watch?v=vcKkroFuqeE"
+    },
+    {
+      "name": "Himalayan Cataract Project",
+      "videoLink": "https://www.youtube.com/watch?v=EKiwH3vn7JI"
+    },
+    {
+      "name": "HonestReporting.com",
+      "videoLink": "https://www.youtube.com/watch?v=xJtMLJQ0v-o"
+    },
+    {
+      "name": "Hope for Haiti",
+      "videoLink": "https://www.youtube.com/watch?v=ErESPy0HljE"
+    },
+    {
+      "name": "Hope for Haiti's Children",
+      "videoLink": "https://www.youtube.com/watch?v=Fxb9qOEMUfs"
+    },
+    {
+      "name": "Human Development Foundation of North America",
+      "videoLink": "https://www.youtube.com/watch?v=kN4hGNB12sQ"
+    },
+    {
+      "name": "INMED Partnerships for Children",
+      "videoLink": "https://www.youtube.com/watch?v=NLOXnsJqcIE"
+    },
+    {
+      "name": "India Development and Relief Fund, Inc. (IDRF)",
+      "videoLink": "https://www.youtube.com/watch?v=6lRC6jE6XIs"
+    },
+    {
+      "name": "Indian Muslim Relief and Charities",
+      "videoLink": "https://www.youtube.com/watch?v=px1YiYVciM4"
+    },
+    {
+      "name": "Institute for Middle East Understanding",
+      "videoLink": "https://www.youtube.com/watch?v=Ok-R3cU8RWI"
+    },
+    {
+      "name": "International Children's Care",
+      "videoLink": "https://www.youtube.com/watch?v=GbDx-xZQTRY"
+    },
+    {
+      "name": "International Children's Fund, Inc.",
+      "videoLink": "https://www.youtube.com/watch?v=jWrlq6-D2AY"
+    },
+    {
+      "name": "International Community Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=jOnvh4jg9Wg"
+    },
+    {
+      "name": "International Disaster Emergency Service",
+      "videoLink": "https://www.youtube.com/watch?v=ZYhKFKyVXcU"
+    },
+    {
+      "name": "International Institute of Rural Reconstruction (IIRR)",
+      "videoLink": "https://www.youtube.com/watch?v=QOJ3i8iM_yQ"
+    },
+    {
+      "name": "International Relief Teams",
+      "videoLink": "https://www.youtube.com/watch?v=GmQHRLN0u0A"
+    },
+    {
+      "name": "Jewish World Watch",
+      "videoLink": "https://www.youtube.com/watch?v=Y8TDTZvRhVc"
+    },
+    {
+      "name": "Just Detention International",
+      "videoLink": "https://www.youtube.com/watch?v=R4cOizEu3zk"
+    },
+    {
+      "name": "Keep a Child Alive",
+      "videoLink": "https://www.youtube.com/watch?v=HphPQxLhBNg"
+    },
+    {
+      "name": "Kids Alive International",
+      "videoLink": "https://www.youtube.com/watch?v=Fiacg82Ek2E"
+    },
+    {
+      "name": "Kids Around the World",
+      "videoLink": "https://www.youtube.com/watch?v=VLc6VAQYElc"
+    },
+    {
+      "name": "Kinship United",
+      "videoLink": "https://www.youtube.com/watch?v=2ntG1ASbQVc"
+    },
+    {
+      "name": "Liberty in North Korea",
+      "videoLink": "https://www.youtube.com/watch?v=F14yf9Lnk4Y"
+    },
+    {
+      "name": "Life In Abundance International",
+      "videoLink": "https://www.youtube.com/watch?v=MaNLpfAAbiU"
+    },
+    {
+      "name": "Life for Relief and Development",
+      "videoLink": "https://www.youtube.com/watch?v=CInpMEpxS_0"
+    },
+    {
+      "name": "Lifewater International",
+      "videoLink": "https://www.youtube.com/watch?v=jc1YPYNS6Lo"
+    },
+    {
+      "name": "Living Goods",
+      "videoLink": "https://www.youtube.com/watch?v=Wg8ZX62XpmY"
+    },
+    {
+      "name": "Love Without Boundaries Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=XVXMXxPcFFM"
+    },
+    {
+      "name": "Loving Shepherd Ministries",
+      "videoLink": "https://www.youtube.com/watch?v=u3uOQ-BSS9Q"
+    },
+    {
+      "name": "MADRE",
+      "videoLink": "https://www.youtube.com/watch?v=OcVPpcsrxus"
+    },
+    {
+      "name": "MAP International",
+      "videoLink": "https://www.youtube.com/watch?v=O7sU63Z9QoQ"
+    },
+    {
+      "name": "Mano a Mano International",
+      "videoLink": "https://www.youtube.com/watch?v=bPJHo8pcdIY"
+    },
+    {
+      "name": "Matthew 25: Ministries",
+      "videoLink": "https://www.youtube.com/watch?v=Y7774v2INPw"
+    },
+    {
+      "name": "MedShare",
+      "videoLink": "https://www.youtube.com/watch?v=f6zL2BLV4uA"
+    },
+    {
+      "name": "Medical Benevolence Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=12yNNTSRWes"
+    },
+    {
+      "name": "Medical Teams International",
+      "videoLink": "https://www.youtube.com/watch?v=P034IMiCU0E"
+    },
+    {
+      "name": "Meds & Food for Kids",
+      "videoLink": "https://www.youtube.com/watch?v=OmiK2w7LHzY"
+    },
+    {
+      "name": "Mercy Ships",
+      "videoLink": "https://www.youtube.com/watch?v=vWL4MujgWRw"
+    },
+    {
+      "name": "Mercy-USA for Aid and Development",
+      "videoLink": "https://www.youtube.com/watch?v=sJXpS5FstJk"
+    },
+    {
+      "name": "Middle East Children's Alliance",
+      "videoLink": "https://www.youtube.com/watch?v=nwFx0wCfCJA"
+    },
+    {
+      "name": "Miracle Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=9nJhNvnd5dI"
+    },
+    {
+      "name": "Mustard Seed Communities",
+      "videoLink": "https://www.youtube.com/watch?v=36GWSMHUHfw"
+    },
+    {
+      "name": "Near East Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=bsOtcHUsSu0"
+    },
+    {
+      "name": "Netherland-America Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=mQv_hYY1bfY"
+    },
+    {
+      "name": "ORPHANetwork",
+      "videoLink": "https://www.youtube.com/watch?v=gvb8yLlxoc0"
+    },
+    {
+      "name": "One Acre Fund",
+      "videoLink": "https://www.youtube.com/watch?v=gVX1RFobfk0"
+    },
+    {
+      "name": "One Heart Worldwide",
+      "videoLink": "https://www.youtube.com/watch?v=fgi_v3Qz7xU"
+    },
+    {
+      "name": "Operation Bootstrap Africa",
+      "videoLink": "https://www.youtube.com/watch?v=YS9sat41hUI"
+    },
+    {
+      "name": "Orbis International",
+      "videoLink": "https://www.youtube.com/watch?v=SQBiWWuYyNM"
+    },
+    {
+      "name": "Orphan Grain Train",
+      "videoLink": "https://www.youtube.com/watch?v=1ujgt8pxaO8"
+    },
+    {
+      "name": "Outreach International",
+      "videoLink": "https://www.youtube.com/watch?v=ijoP6ewuymg"
+    },
+    {
+      "name": "Palestine Children's Relief Fund",
+      "videoLink": "https://www.youtube.com/watch?v=yMxPR3J2XNw"
+    },
+    {
+      "name": "Partners In Health",
+      "videoLink": "https://www.youtube.com/watch?v=EB2GxayhINA"
+    },
+    {
+      "name": "Partners Relief and Development",
+      "videoLink": "https://www.youtube.com/watch?v=f8ui8s8KOnQ"
+    },
+    {
+      "name": "Pilgrim Africa",
+      "videoLink": "https://www.youtube.com/watch?v=Mh8xS0OQQPw"
+    },
+    {
+      "name": "Plant With Purpose",
+      "videoLink": "https://www.youtube.com/watch?v=-aTomc_zokA"
+    },
+    {
+      "name": "Project C.U.R.E.",
+      "videoLink": "https://www.youtube.com/watch?v=ImbsQItwOp4"
+    },
+    {
+      "name": "Rafiki Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=IcFkXBvv9G8"
+    },
+    {
+      "name": "Refugees International",
+      "videoLink": "https://www.youtube.com/watch?v=7DU8VwiK260"
+    },
+    {
+      "name": "Room to Read",
+      "videoLink": "https://www.youtube.com/watch?v=aa_Groyc3Ts"
+    },
+    {
+      "name": "SIGN Fracture Care International",
+      "videoLink": "https://www.youtube.com/watch?v=0Zy2Zdi92q8"
+    },
+    {
+      "name": "Safe Water Network",
+      "videoLink": "https://www.youtube.com/watch?v=qh6-iuPu5wM"
+    },
+    {
+      "name": "Salvadoran American Humanitarian Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=YJSLVbP_Ppo"
+    },
+    {
+      "name": "Samaritan's Purse",
+      "videoLink": "https://www.youtube.com/watch?v=Cvw4QLzhxSo"
+    },
+    {
+      "name": "Save a Child's Heart Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=312g64WZwuk"
+    },
+    {
+      "name": "Save the Children",
+      "videoLink": "https://www.youtube.com/watch?v=CwiGzBX5_s4"
+    },
+    {
+      "name": "Seva Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=1io3aPe_8bA"
+    },
+    {
+      "name": "Sewa International, Inc",
+      "videoLink": "https://www.youtube.com/watch?v=aY1d3Ukx5V4"
+    },
+    {
+      "name": "Share & Care Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=POYTNmhBeXA"
+    },
+    {
+      "name": "Shared Hope International",
+      "videoLink": "https://www.youtube.com/watch?v=iPISZwFDT-o"
+    },
+    {
+      "name": "Synergos",
+      "videoLink": "https://www.youtube.com/watch?v=Y-n_Ce_hXls"
+    },
+    {
+      "name": "Tanzanian Children's Fund",
+      "videoLink": "https://www.youtube.com/watch?v=TwOJbIgJfQI"
+    },
+    {
+      "name": "The Carter Center",
+      "videoLink": "https://www.youtube.com/watch?v=LdP2Jc8Yh24"
+    },
+    {
+      "name": "The Fund for Global Human Rights",
+      "videoLink": "https://www.youtube.com/watch?v=BjFGhnqFORs"
+    },
+    {
+      "name": "The Global Orphan Project",
+      "videoLink": "https://www.youtube.com/watch?v=-JJgqb5XI2I"
+    },
+    {
+      "name": "The Hunger Project",
+      "videoLink": "https://www.youtube.com/watch?v=2c5bTuB-sH4"
+    },
+    {
+      "name": "The Middle East Media Research Institute",
+      "videoLink": "https://www.youtube.com/watch?v=TviQaNV7gYE"
+    },
+    {
+      "name": "The PRASAD Project",
+      "videoLink": "https://www.youtube.com/watch?v=32xNpGhr4AU"
+    },
+    {
+      "name": "The Prem Rawat Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=SaOZrLH1FtA"
+    },
+    {
+      "name": "The Sentry",
+      "videoLink": "https://www.youtube.com/watch?v=1uDNkmtyeKU"
+    },
+    {
+      "name": "The Tibet Fund",
+      "videoLink": "https://www.youtube.com/watch?v=N2i94-O3uEc"
+    },
+    {
+      "name": "Thousand Currents",
+      "videoLink": "https://www.youtube.com/watch?v=gGBPb-JSoZc"
+    },
+    {
+      "name": "Touch Foundation",
+      "videoLink": "https://www.youtube.com/watch?v=op15HVhvpuo"
+    },
+    {
+      "name": "Trees for the Future",
+      "videoLink": "https://www.youtube.com/watch?v=OKvMIDrGE7Y"
+    },
+    {
+      "name": "Trickle Up",
+      "videoLink": "https://www.youtube.com/watch?v=4fMMQKYejPQ"
+    },
+    {
+      "name": "Unbound",
+      "videoLink": "https://www.youtube.com/watch?v=A2L9QPKTmVo"
+    },
+    {
+      "name": "Unitarian Universalist Service Committee",
+      "videoLink": "https://www.youtube.com/watch?v=S0FsAvWRJXI"
+    },
+    {
+      "name": "United Methodist Committee on Relief of Global Ministries, Inc.",
+      "videoLink": "https://www.youtube.com/watch?v=oNXOmKGSYEY"
+    },
+    {
+      "name": "United Palestinian Appeal",
+      "videoLink": "https://www.youtube.com/watch?v=eG2R4bv6Ras"
+    },
+    {
+      "name": "V-Day",
+      "videoLink": "https://www.youtube.com/watch?v=v48YPrcCgoU"
+    },
+    {
+      "name": "Village Enterprise",
+      "videoLink": "https://www.youtube.com/watch?v=D53S1nPHxN0"
+    },
+    {
+      "name": "Village Health Works",
+      "videoLink": "https://www.youtube.com/watch?v=Lq4lEZrlHPw"
+    },
+    {
+      "name": "VillageReach",
+      "videoLink": "https://www.youtube.com/watch?v=bFsOhigkig4"
+    },
+    {
+      "name": "VisionSpring",
+      "videoLink": "https://www.youtube.com/watch?v=XIGNi7cGMwA"
+    },
+    {
+      "name": "Vitamin Angels",
+      "videoLink": "https://www.youtube.com/watch?v=0_vRkW4W-dE"
+    },
+    {
+      "name": "Water For People",
+      "videoLink": "https://www.youtube.com/watch?v=mghKWUqB0YQ"
+    },
+    {
+      "name": "Water Mission",
+      "videoLink": "https://www.youtube.com/watch?v=4SvCMsqNUKA"
+    },
+    {
+      "name": "Water.org",
+      "videoLink": "https://www.youtube.com/watch?v=VxU9gSQdW1I"
+    },
+    {
+      "name": "Watoto Child Care Ministry, Inc.",
+      "videoLink": "https://www.youtube.com/watch?v=636XnIDUWik"
+    },
+    {
+      "name": "White Ribbon Alliance",
+      "videoLink": "https://www.youtube.com/watch?v=nBzide5J3Hk"
+    },
+    {
+      "name": "Wings of Hope",
+      "videoLink": "https://www.youtube.com/watch?v=1kCwJiYWPCA"
+    },
+    {
+      "name": "World Food Program USA",
+      "videoLink": "https://www.youtube.com/watch?v=-CqNTq1eNiw"
+    },
+    {
+      "name": "World Hope International",
+      "videoLink": "https://www.youtube.com/watch?v=8WM6TOD-yno"
+    },
+    {
+      "name": "World Medical Relief",
+      "videoLink": "https://www.youtube.com/channel/UCmdcC26QVMc9jRTnr2ODshA"
+    },
+    {
+      "name": "World Neighbors",
+      "videoLink": "https://www.youtube.com/watch?v=XE-_2OkMdWA"
+    },
+    {
+      "name": "World Pediatric Project",
+      "videoLink": "https://www.youtube.com/watch?v=-Z61HWEeJ_M"
+    },
+    {
+      "name": "World Vision",
+      "videoLink": "https://www.youtube.com/watch?v=bqJkYnP79dk"
+    },
+    {
+      "name": "Yale-China Association",
+      "videoLink": "https://www.youtube.com/watch?v=9embMiBF2Rs"
+    },
+    {
+      "name": "Zakat Foundation of America",
+      "videoLink": "https://www.youtube.com/watch?v=L7GfqJd5l3U"
+    }
+  ]
+}

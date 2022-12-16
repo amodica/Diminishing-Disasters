@@ -1,0 +1,660 @@
+{
+  "charities": [
+    {
+      "name": "ADRA International",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/ADRA_Horizontal_Logo.png"
+    },
+    {
+      "name": "Abraham Initiatives",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Abraham_Initiatives_Logo.jpg"
+    },
+    {
+      "name": "Action Against Hunger USA",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/Eng_Col_RGB_JPG.jpg"
+    },
+    {
+      "name": "Acumen",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Acumen_logo.png"
+    },
+    {
+      "name": "Aga Khan Foundation, USA",
+      "logo": "https://social.fund/images/npos/890.jpg"
+    },
+    {
+      "name": "Alight (formerly American Refugee Committee)",
+      "logo": "https://mma.prnewswire.com/media/1193251/Alight_Logo.jpg?p=facebook"
+    },
+    {
+      "name": "All God's Children",
+      "logo": "https://cafo.org/wp-content/uploads/2015/07/AllGC1.jpg"
+    },
+    {
+      "name": "All God's Children International",
+      "logo": "https://cafo.org/wp-content/uploads/2015/07/AllGC1.jpg"
+    },
+    {
+      "name": "Amazima Ministries",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpq87QKVe_OKZLnB_9HEmeSoZMonH2JYej3sSoa-XB1gWYc_NX2BQWGZgvfSXZJ8qAss&usqp=CAU"
+    },
+    {
+      "name": "American Friends of Leket Israel",
+      "logo": "https://process.filestackapi.com/resize=width:600,height:315,fit:max/quality=value:90/sb5naexcQJKzV7S9aZ9F"
+    },
+    {
+      "name": "American Friends of Neve Shalom/Wahat al-Salam",
+      "logo": "https://www.skees.org/wp-content/uploads/2014/08/WSNS-Logo-2.jpg"
+    },
+    {
+      "name": "American Himalayan Foundation",
+      "logo": "https://process.filestackapi.com/resize=width:600,height:315,fit:max/quality=value:90/RqC1cG7KTWFADMtxcVM6"
+    },
+    {
+      "name": "American Nicaraguan Foundation",
+      "logo": "https://redredi.org/wp-content/uploads/2020/08/ANF-300x200.jpg"
+    },
+    {
+      "name": "American-Scandinavian Foundation",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/American_Scandinavian_foundation_-_Logo.png"
+    },
+    {
+      "name": "Americares",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Americares-logo-int022012sm.png"
+    },
+    {
+      "name": "Amigos de las Américas",
+      "logo": "http://photos.prnewswire.com/prnfull/20081112/DC45185LOGO"
+    },
+    {
+      "name": "Amigos for Christ",
+      "logo": "https://pbs.twimg.com/profile_images/1478045937947787272/KXlRfHbV_400x400.jpg"
+    },
+    {
+      "name": "Amoud Foundation",
+      "logo": "https://www.muslimyellowpages.com/logos/profile/limage-944-131-photo.png"
+    },
+    {
+      "name": "Anera",
+      "logo": "https://abpadc.org/wp-content/uploads/2020/09/anera-company-logo_ABPA-blog.png"
+    },
+    {
+      "name": "Armenian General Benevolent Union",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_of_the_Armenian_General_Benevolent_Union.png"
+    },
+    {
+      "name": "Asha for Education",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGnjattInX-Jg/company-logo_200_200/0/1570287332315?e=2147483647&v=beta&t=RsBKVRYxE2bpF_-k0N1smaZkIPTqQmSwQFfOM-tTXQM"
+    },
+    {
+      "name": "Ashoka",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/ca/AshokaLogo.png"
+    },
+    {
+      "name": "BRAC USA",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQG_3nJyr4WYsQ/company-logo_200_200/0/1580216872969?e=2147483647&v=beta&t=wZiXk_MnHommDVX7T_86nf9Q6LHs9fpfHT6V_Zhtwc0"
+    },
+    {
+      "name": "Back2Back Ministries",
+      "logo": "https://back2back.org/wp-content/uploads/B2B-large.png"
+    },
+    {
+      "name": "BlinkNow Foundation",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/BlinkNow_logo.png"
+    },
+    {
+      "name": "Books For Africa",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHSQXXyqIe4Jg/company-logo_200_200/0/1519933134723?e=2147483647&v=beta&t=6PsjDn1R41rJukTi2Vv26ofv5_kgrPOfMW5o6pjgT6M"
+    },
+    { "name": "Brother's Brother Foundation", "logo": "https://imageio.forbes.com/i-forbesimg/media/lists/companies/brothers-brother-foundation_416x416.jpg?format=jpg&height=416&width=416&fit=bounds" },
+    {
+      "name": "buildOn",
+      "logo": "https://liveunitedsem.galaxydigital.com/content/liveunitedsem.galaxydigital.com/agency/97513.jpg?1554228053"
+    },
+    {
+      "name": "CARE",
+      "logo": "https://www.care.org/wp-content/uploads/2020/07/care-logo-featured-image.jpg"
+    },
+    {
+      "name": "CFK",
+      "logo": "http://www.citadelfoundationforkids.org/wp-content/uploads/2016/02/cropped-Screen-Shot-2016-02-09-at-7.00.43-PM.png"
+    },
+    {
+      "name": "CURE International",
+      "logo": "https://yt3.ggpht.com/ytc/AKedOLSfpH8G5-hZEHOGDzv4a79R0neE2dEAUPncC1xG3A=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Cambodian Children's Fund",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/CCF_logo_portrait5.png"
+    },
+    { "name": "Camfed USA Foundation", "logo": "https://s12982.pcdn.co/wp-content/uploads/2014/04/camfed-logo.jpg" },
+    { "name": "Canvasback Missions, Inc.", "logo": "https://media-exp1.licdn.com/dms/image/C560BAQH9hIDtj1HhyQ/company-logo_200_200/0/1519913167733?e=2147483647&v=beta&t=g4IMEYyz2m9cdlZ_eOFGWmoa_qYVvD8OWPnDe5U9W3o" },
+    {
+      "name": "Catholic Medical Mission Board",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logo_CMMB.jpg"
+    },
+    {
+      "name": "Center for Justice and International Law",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGBCQayA8BcLw/company-logo_200_200/0/1616686654577?e=2147483647&v=beta&t=ENx4HzmNtMukQq6ZGztK5Zf7mfWWx4oPU_o_rifIwHk"
+    },
+    {
+      "name": "Child Aid",
+      "logo": "https://child-aid.org/wp-content/uploads/2020/04/ChildAid__LogoTagline_TwoColor_001.jpg"
+    },
+    {
+      "name": "Child Foundation",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFhq66KpTMK4Q/company-logo_200_200/0/1646546054497?e=2147483647&v=beta&t=JD4OcrU3JSw5A9iNe-_-T_FLRc-aW23vASEMvnrOY0U"
+    },
+    {
+      "name": "Children Incorporated",
+      "logo": "https://childrenincorporated.org/wp-content/uploads/2017/07/ChildrenIncInstagramLogo_Option02.jpg"
+    },
+    {
+      "name": "Children International",
+      "logo": "https://www.looktothestars.org/photo/10650-children-international/story_half_width.jpg"
+    },
+    {
+      "name": "Children of Armenia Fund",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Children_of_Armenia_Fund_%28COAF%29_-_Logo_%28Transparent%29.png"
+    },
+    { "name": "Children of the Nations", "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/Children_of_the_Nations_logo.jpg" },
+    { "name": "Children's Hunger Fund", "logo": "https://cdn.greatnonprofits.org/images/logos/CHF_Logo_square_301U-020818-155850.jpg" },
+    { "name": "Children's Shelter of Cebu", "logo": "https://s3-media0.fl.yelpcdn.com/bphoto/9iC3JvLGMNuTtfhgn3gGDQ/l.jpg" },
+    {
+      "name": "Christian Relief Fund",
+      "logo": "https://elevatechristiannetwork.com/wp-content/uploads/2018/06/Christian-Relief-Fund-Rescuing-Orphans-and-Vulnerable-Children-from-Poverty.png"
+    },
+    {
+      "name": "Church World Service",
+      "logo": "https://www.justserve.org/api/images/5fb0643f-2983-45c6-bcc2-8b1a45e2a0a9.png"
+    },
+    {
+      "name": "CitiHope Relief & Development",
+      "logo": "https://s3-media0.fl.yelpcdn.com/bphoto/tJl45zkBOQcFGAO_g9kogQ/l.jpg"
+    },
+    {
+      "name": "Common Hope",
+      "logo": "https://pbs.twimg.com/profile_images/1047572938331971587/lQudEIdO_400x400.jpg"
+    },
+    {
+      "name": "Community Partners International",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGTATNKiduq9g/company-logo_200_200/0/1562721719255?e=2147483647&v=beta&t=1ObWBmEadwOoSAo6pb4OoGoIr7RDQhla9xr285ZAVyk"
+    },
+    {
+      "name": "Concern Worldwide US, Inc.",
+      "logo": "https://process.filestackapi.com/resize=width:600,height:315,fit:max/quality=value:90/ncDGrb1TsK54uqcsWJYG"
+    },
+    { "name": "Coptic Orphans", "logo": "https://copticorphans.org/wp-content/uploads/2019/06/CO-logo.jpg" },
+    {
+      "name": "Crisis Aid International",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/logo600pxonwhite0.jpg"
+    },
+    {
+      "name": "DKT International",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/DKT_International_logo.png"
+    },
+    { "name": "Danita's Children", "logo": "https://lirp.cdn-website.com/44e76ca1/dms3rep/multi/opt/blue-logo-square-sharpened-final-319w.png" },
+    {
+      "name": "Direct Relief",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Direct-Relief-Square.png"
+    },
+    {
+      "name": "Doctors Without Borders, USA",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/msflogo.jpg"
+    },
+    { "name": "ECHO", "logo": "https://echonet.org/wp-content/uploads/2020/01/echo-inc-green-logo.png" },
+    { "name": "EarthRights International", "logo": "https://namati.org/wp-content/uploads/2016/02/download.png" },
+    {
+      "name": "Empowering Lives International",
+      "logo": "https://images.givelively.org/nonprofits/8344709a-b79f-4abc-bdae-e27bae78ea72/logos/empowering-lives-international_processed_322ff4ce80fe4a75b63c449f50adbb6b581683217305b630ed343e05dc9c27ac_logo.jpg"
+    },
+    { "name": "Engineering Ministries International", "logo": "https://cdn.greatnonprofits.org/images/logos/EMI_USA1.jpg" },
+    {
+      "name": "Episcopal Relief & Development",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Episcopal_Church_%28Scotland%29_Act_1864_%28UKPGA_Vict-27-28-94%29.pdf"
+    },
+    { "name": "Esperança", "logo": "https://esperanca.org/wp-content/uploads/2021/07/Esperanca-logo-horizontal-large-scaled.jpg" },
+    {
+      "name": "Ezra International",
+      "logo": "https://ezrainternational.org/wp-content/uploads/2019/04/header-Ezra-logo-phone.jpg"
+    },
+    {
+      "name": "Faith In Practice",
+      "logo": "https://missionfinder.org/wp-content/uploads/1970/01/Faith-logo.jpg"
+    },
+    {
+      "name": "Feed My Starving Children",
+      "logo": "https://fmsc-media-cdn.azureedge.net/-/media/images/logos/2019/fmsc-blue-rgb.jpg"
+    },
+    {
+      "name": "Fistula Foundation",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/FF_Logo_Vert_Color_RGB_091613.png"
+    },
+    {
+      "name": "Focus Humanitarian Assistance USA",
+      "logo": "http://images.justgiving.com/image/focuseurope_logo.gif?template=size200x200"
+    },
+    { "name": "Friends Without A Border", "logo": "https://www.looktothestars.org/photo/10568-friends-without-a-border/story_half_width.jpg" },
+    {
+      "name": "Friends of Israel Disabled Veterans – Beit Halochem",
+      "logo": "https://yt3.ggpht.com/ytc/AKedOLROTVQMGCIzjl6225t0nN-qxUf8c6twsDK1Zu96=s176-c-k-c0x00ffffff-no-rj"
+    },
+    { "name": "Friends of the Israel Defense Forces", "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/Friends_of_the_IDF_Logo%2C_2014.jpg" },
+    {
+      "name": "Fund for Armenian Relief",
+      "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/drcmizcan2vj7e2d9xpv"
+    },
+    {
+      "name": "German Marshall Fund of the US",
+      "logo": "https://spfusa.org/wp-content/uploads/2017/05/5448-5472-4.jpg"
+    },
+    { "name": "Global Greengrants Fund", "logo": "https://media-exp1.licdn.com/dms/image/C510BAQFY5myoitgf2A/company-logo_200_200/0/1519912755650?e=2147483647&v=beta&t=eQhA-7F1nBDzkHJlKVVHSu8v2i9qxq1DCBnFoh1EJi0" },
+    {
+      "name": "Global Health Ministries",
+      "logo": "https://www.migafoundation.org/wp-content/uploads/global-health-ministries.png"
+    },
+    {
+      "name": "Global Links",
+      "logo": "https://www.globalgiving.org/pfil/organ/916/orglogo.jpg"
+    },
+    {
+      "name": "GlobalGiving",
+      "logo": "https://www.globalgiving.org/share/dfltpict.jpg"
+    },
+    {
+      "name": "Grassroot Soccer",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/GRSsquarelogo.jpg"
+    },
+    {
+      "name": "Grassroots International",
+      "logo": "https://i0.wp.com/martinbarofund.org/wp-content/uploads/2019/11/GRI-logo.png?fit=371%2C136&ssl=1"
+    },
+    {
+      "name": "Haitian Health Foundation",
+      "logo": "https://haitianhealthfoundation.org/wp-content/uploads/2015/11/HHF-smaller-logo.jpg"
+    },
+    {
+      "name": "Healing Hands International",
+      "logo": "https://www.hhi.org/sites/all/themes/hhi_theme/images/hhi-logo.png"
+    },
+    {
+      "name": "Health Equity International",
+      "logo": "https://healthequityintl.org/sites/default/files/styles/story_medium_image/public/untitled-design-4.png?itok=xR43xxZR"
+    },
+    {
+      "name": "HealthRight International",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQFynXukR426sQ/company-logo_200_200/0/1634920288672?e=2147483647&v=beta&t=OSTUmJcdOGwQSy7_k-JuDD7w9co-jfuh4eTb_y58B_s"
+    },
+    {
+      "name": "Heart for Lebanon Foundation",
+      "logo": "https://peaceinsight.s3.amazonaws.com/media/images/heart-for-lebanon.max-300x200.png"
+    },
+    {
+      "name": "Heart to Heart International",
+      "logo": "https://www.hearttoheart.org/wp-content/uploads/2014/06/HeartToHeart_APPICON_White-011.jpg"
+    },
+    {
+      "name": "Help the Helpless",
+      "logo": "https://www.helpthehelpless.org/hth-logo.png"
+    },
+    {
+      "name": "Helping Hand for Relief and Development",
+      "logo": "https://pbs.twimg.com/profile_images/605392525390659584/-p3cBkCe_400x400.jpg"
+    },
+    { "name": "Himalayan Cataract Project", "logo": "https://www.iapb.org/wp-content/uploads/2020/09/Himalayan-Cataract-Project-1.png" },
+    {
+      "name": "HonestReporting.com",
+      "logo": "https://honestreporting.com/wp-content/uploads/2021/03/fb-image-honestreporting.jpg"
+    },
+    {
+      "name": "Hope for Haiti",
+      "logo": "https://charity.org/sites/charity.org/files/styles/blog_style_3/public/2021-03/images-36000.png?itok=LDCyXzhz"
+    },
+    {
+      "name": "Hope for Haiti's Children",
+      "logo": "https://www.hopeforhaitischildren.org/images/hfhc-logos/2015-HFHC-Website-Front-Page-Logo.png"
+    },
+    {
+      "name": "Human Development Foundation of North America",
+      "logo": "https://www.hdf.com/public/front/m-lib/image/hdf-logo-text.png"
+    },
+    { "name": "INMED Partnerships for Children", "logo": "https://www.ntd-ngonetwork.org/sites/nnn/files/styles/grid-6-mobile-logo/public/content/organisation/logos/2019-05-15/inmed.jpg?itok=XKb8g4eh&timestamp=1557940032" },
+    {
+      "name": "India Development and Relief Fund, Inc. (IDRF)",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E16AQF2k1ObpVDdNA/profile-displaybackgroundimage-shrink_200_800/0/1517560963313?e=1654128000&v=beta&t=nOLzLwh89pc2V_eyK-RdyBci20jWj6q8kefVSttVGNg"
+    },
+    {
+      "name": "Indian Muslim Relief and Charities",
+      "logo": "https://www.imrcusa.org/wp-content/uploads/2019/05/IMRC-Logo-Web.jpg"
+    },
+    {
+      "name": "Institute for Middle East Understanding",
+      "logo": "https://imeu.org/site/assets/images/logo_imeu.png"
+    },
+    {
+      "name": "International Children's Care",
+      "logo": "https://i0.wp.com/forhiskids.org/wp-content/uploads/2020/01/icc-logo-website.png?fit=512%2C512&ssl=1"
+    },
+    {
+      "name": "International Children's Fund, Inc.",
+      "logo": "https://icfaid.org/wp-content/uploads/2019/03/icfaid_site_logo.png"
+    },
+    {
+      "name": "International Community Foundation",
+      "logo": "https://www.oceanblueworld.com/wp-content/uploads/2018/05/ICF_Logo_RGB-1.jpg"
+    },
+    {
+      "name": "International Disaster Emergency Service",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/SmallLogoProfilePic.jpg"
+    },
+    {
+      "name": "International Institute of Rural Reconstruction (IIRR)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/IIRR-Logo.png"
+    },
+    {
+      "name": "International Relief Teams",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/IRT_NEW_FINAL.png"
+    },
+    {
+      "name": "Jewish World Watch",
+      "logo": "https://www.wisela.org/wp-content/uploads/2019/09/JWW-logo.jpg"
+    },
+    {
+      "name": "Just Detention International",
+      "logo": "https://justdetention.org/wp-content/uploads/2019/02/jdi-final-logo-240x161.png"
+    },
+    { "name": "Keep a Child Alive", "logo": "https://pbs.twimg.com/profile_images/1213044043078393856/dQiLiwOZ_400x400.jpg" },
+    {
+      "name": "Kids Alive International",
+      "logo": "https://res.cloudinary.com/kidsalive-org/images/f_auto,q_auto/v1598277497/kai_email/kai_email.jpg"
+    },
+    {
+      "name": "Kids Around the World",
+      "logo": "https://kidsaroundtheworld.com/wp-content/uploads/2019/02/2018-KATW-Logo-Horz-CMYK-retina.png"
+    },
+    {
+      "name": "Kinship United",
+      "logo": "https://kinshipunited.org/wp-content/uploads/2018/03/Bosnia-LP-KU-LOGO.jpg"
+    },
+    {
+      "name": "Liberty in North Korea",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LiNK_Logo.png"
+    },
+    {
+      "name": "Life In Abundance International",
+      "logo": "https://lifeinabundance.org/wp-content/uploads/2020/07/LIA-LOGO-full-color-08.png"
+    },
+    {
+      "name": "Life for Relief and Development",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/97701FAB-263A-4E58-9E09-68E54D422ACE0.jpeg"
+    },
+    { "name": "Lifewater International", "logo": "https://www.susana.org/_resources/images/720/1-1615-132-1499342430.png" },
+    { "name": "Living Goods", "logo": "https://e1.nmcdn.io/livinggoods/wp-content/uploads/2019/05/living-goods-logo.jpg/v:1-width:1160-height:652-fit:cover/living-goods-logo.jpg?signature=0c5186dc" },
+    {
+      "name": "Love Without Boundaries Foundation",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/PNGlogo0.png"
+    },
+    {
+      "name": "Loving Shepherd Ministries",
+      "logo": "https://cafo.org/wp-content/uploads/2015/07/LSM.jpg"
+    },
+    {
+      "name": "MADRE",
+      "logo": "https://www.madre.org/sites/all/themes/custom/cambio/images/MADRE_logo_2020.png"
+    },
+    {
+      "name": "MAP International",
+      "logo": "https://www.map.org/hubfs/Logos/MAP%20Intl%20Instagram%20Square%20Logo.png"
+    },
+    {
+      "name": "Mano a Mano International",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/logomano.png"
+    },
+    {
+      "name": "Matthew 25: Ministries",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/M25M2017Logo_WEB.jpg"
+    },
+    {
+      "name": "MedShare",
+      "logo": "https://kennesaw.galaxydigital.com/content/vksu.kennesaw.edu/agency/23928.jpg?1564604249?area=agency"
+    },
+    {
+      "name": "Medical Benevolence Foundation",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHsby6FUfkvnA/company-logo_200_200/0/1602185398669?e=2147483647&v=beta&t=8sPMKH9_jFKsX7OMUveFf1Nc6H6RBXgKeE3efUykuaA"
+    },
+    {
+      "name": "Medical Teams International",
+      "logo": "https://www.medicalteams.org/wp-content/uploads/2019/08/MTI-Logo-Red-on-White-1.png"
+    },
+    {
+      "name": "Meds & Food for Kids",
+      "logo": "https://static.twentyoverten.com/5d8a297a12d9fb0b95daaf92/tmisVk6F8W/Logo-White-Added.png"
+    },
+    {
+      "name": "Mercy Ships",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mercy_Ships_Logo.jpg"
+    },
+    {
+      "name": "Mercy-USA for Aid and Development",
+      "logo": "https://dms.licdn.com/video-thumbs/C4D05AQG2iZ4rD82YGw/65c15cf231dd4c799228a2f5e9e4f264/feedshare-videocover_low/480x270-00001.jpg"
+    },
+    {
+      "name": "Middle East Children's Alliance",
+      "logo": "https://www.mecaforpeace.org/wp-content/uploads/2021/10/MECA-logo-color-header.jpg"
+    },
+    { "name": "Miracle Foundation", "logo": "https://cdn.greatnonprofits.org/images/logos/Untitleddesign46.png" },
+    {
+      "name": "Mustard Seed Communities",
+      "logo": "https://s3.amazonaws.com/giveffect-assets/system/photos/charities/large/3991xdbe96a56a35fce3ff895fabcd98a60bce036024c.jpg"
+    },
+    { "name": "Near East Foundation", "logo": "https://upload.wikimedia.org/wikipedia/en/3/38/Near-East-Foundation-logo.jpg" },
+    {
+      "name": "Netherland-America Foundation",
+      "logo": "https://thenaf.org/wp-content/uploads/2019/05/NAF_100Years_Logo_BridgingWorlds.jpg"
+    },
+    { "name": "ORPHANetwork", "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHL3_FT-xU8Jw/company-logo_200_200/0/1554475792818?e=2147483647&v=beta&t=AuFnWbklTvMztkWlMLCYZD1cvLAHx_qpNdYxpbe9JlQ" },
+    {
+      "name": "One Acre Fund",
+      "logo": "https://s12982.pcdn.co/wp-content/uploads/2014/02/One-Acre-Fund.png"
+    },
+    {
+      "name": "One Heart Worldwide",
+      "logo": "https://i.pinimg.com/280x280_RS/ce/93/68/ce93689b9709ca32cddb8d151cda1e3a.jpg"
+    },
+    {
+      "name": "Operation Bootstrap Africa",
+      "logo": "https://bootstrapafrica.org/wp-content/uploads/2018/09/OBA-Logo.jpg"
+    },
+    {
+      "name": "Orbis International",
+      "logo": "https://www.multivu.com/players/English/8632851-orbis-give-the%20gift-of-sight/image/Orbislogoreversed_1570231254462-HR.png"
+    },
+    {
+      "name": "Orphan Grain Train",
+      "logo": "https://www.nevolunteers.com/sites/default/files/org_logos/2006-09-13_ogt_logo.jpg"
+    },
+    {
+      "name": "Outreach International",
+      "logo": "https://pbs.twimg.com/profile_images/897833500921004032/ESwP6bNQ_400x400.jpg"
+    },
+    { "name": "Palestine Children's Relief Fund", "logo": "https://www.pcrf.net/cached_uploads/full/og-default.jpg" },
+    {
+      "name": "Partners In Health",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQG0mNALXH98aQ/company-logo_200_200/0/1519856894358?e=2147483647&v=beta&t=VYGWrBHbJCVrTjU-JkfxcQ_9nJHAaFtbCxjLCo-evmQ"
+    },
+    { "name": "Partners Relief and Development", "logo": "http://www.ecfa.org/Images/MemberLogos/25052.jpg?v=4f558b" },
+    {
+      "name": "Pilgrim Africa",
+      "logo": "https://missionfinder.org/wp-content/uploads/2015/05/pilgrimafrica"
+    },
+    { "name": "Plant With Purpose", "logo": "https://plantwithpurpose.org/wp-content/uploads/2021/12/OpenGraphImage.png" },
+    {
+      "name": "Project C.U.R.E.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Project_C.U.R.E._logo.png"
+    },
+    { "name": "Rafiki Foundation", "logo": "https://missionconnexion.com/wp-content/uploads/2021/01/rafiki.jpg" },
+    { "name": "Refugees International", "logo": "https://images.squarespace-cdn.com/content/v1/506c8ea1e4b01d9450dd53f5/1571949037813-ERUEGFHLULVA834SHNOR/RI+Logo+social+media+SQUARE.png" },
+    { "name": "Room to Read", "logo": "https://borgenproject.org/wp-content/uploads/Room-to-Read.jpg" },
+    {
+      "name": "SIGN Fracture Care International",
+      "logo": "https://cdn.greatnonprofits.org/images/logos/OFFICIAL-color-no-background.jpg"
+    },
+    { "name": "Safe Water Network", "logo": "https://pbs.twimg.com/profile_images/476035130419474432/2hJloI2a_400x400.jpeg" },
+    {
+      "name": "Salvadoran American Humanitarian Foundation",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/SAHF_.jpg"
+    },
+    {
+      "name": "Samaritan's Purse",
+      "logo": "https://www.justserve.org/api/images/1587520f-a21a-4d58-92de-c4167fe484bf.png"
+    },
+    {
+      "name": "Save a Child's Heart Foundation",
+      "logo": "https://uploads-ssl.webflow.com/5eff944612508922735537f0/5f32eabb5472f835bb08c9ee_VF_LOGO_BLUE.svg"
+    },
+    {
+      "name": "Save the Children",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_SavetheChildren.png"
+    },
+    {
+      "name": "Seva Foundation",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Seva_Foundation_2018_Logo.jpg"
+    },
+    { "name": "Sewa International, Inc", "logo": "https://cdn.greatnonprofits.org/images/logos/sewa_usa_final.jpg" },
+    {
+      "name": "Share & Care Foundation",
+      "logo": "https://media-exp1.licdn.com/dms/image/C510BAQE-sUoTfjVnVA/company-logo_200_200/0/1519881815161?e=2147483647&v=beta&t=DXa4u9HGiDp3NdAguMEx_pMZRMVY3_yjcuRY3sV7K_Y"
+    },
+    {
+      "name": "Shared Hope International",
+      "logo": "https://sharedhope.org/wp-content/uploads/2013/03/shilogo.jpg"
+    },
+    { "name": "Synergos", "logo": "https://avpn.asia/wp-content/uploads/2018/05/Synergos-Logo.png" },
+    {
+      "name": "Tanzanian Children's Fund",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG9AwnXhpZwUQ/company-logo_200_200/0/1519907119322?e=2147483647&v=beta&t=9EuJs6Uj60spuTgxbWxtqBp-Xeheek80NocXXc-ZLF0"
+    },
+    { "name": "The Carter Center", "logo": "https://yt3.ggpht.com/fBPvMkA76NNJ2QVP5HFJ-0d52W0nW3wno7q3uTCTPxdCGe75peg3TZi1s3uHSPeLMEacWp1w=s900-c-k-c0x00ffffff-no-rj" },
+    {
+      "name": "The Fund for Global Human Rights",
+      "logo": "https://pbs.twimg.com/profile_images/1149016088887386118/hPwuXDhe_400x400.png"
+    },
+    { "name": "The Global Orphan Project", "logo": "https://powerobjects.com/wp-content/uploads/2017/06/TheGlocalOrphanProject.png" },
+    {
+      "name": "The Hunger Project",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Hunger_Project_logo.jpg"
+    },
+    {
+      "name": "The Middle East Media Research Institute",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Memrilogo.jpg/375px-Memrilogo.jpg"
+    },
+    {
+      "name": "The PRASAD Project",
+      "logo": "https://www.prasad.org/wp-content/uploads/2016/02/logo_web.png"
+    },
+    {
+      "name": "The Prem Rawat Foundation",
+      "logo": "https://tprf.org/wp-content/uploads/2020/05/TPRFlogo90x417.png"
+    },
+    {
+      "name": "The Sentry",
+      "logo": "https://thesentry.org/wp-content/themes/the-sentry/images/TheSentry_BlueReversed_WCSP.png"
+    },
+    {
+      "name": "The Tibet Fund",
+      "logo": "https://tibetfund.org/wp-content/uploads/2014/04/circle-logo.jpg"
+    },
+    {
+      "name": "Thousand Currents",
+      "logo": "https://pbs.twimg.com/profile_images/1359678467416068097/JqiCqqo0_400x400.jpg"
+    },
+    { "name": "Touch Foundation", "logo": "https://yt3.ggpht.com/ytc/AKedOLQlsYbOnepbtN12xm6a0ShKtcLakSw8NPMn_zyQ=s176-c-k-c0x00ffffff-no-rj" },
+    {
+      "name": "Trees for the Future",
+      "logo": "http://pagestudio.s3.amazonaws.com/sideroot/01f4fe687dab03a20bdd2ba079881257.png"
+    },
+    {
+      "name": "Trickle Up",
+      "logo": "https://media.glassdoor.com/sqll/271028/trickle-up-program-squarelogo-1448354144383.png"
+    },
+    { "name": "Unbound", "logo": "https://chambermaster.blob.core.windows.net/images/customers/9142/members/2958/logos/MEMBER_PAGE_HEADER/Unbound_brandmark__RGB.jpg" },
+    {
+      "name": "Unitarian Universalist Service Committee",
+      "logo": "https://namati.org/wp-content/uploads/2020/07/UUSC.png"
+    },
+    {
+      "name": "United Methodist Committee on Relief of Global Ministries, Inc.",
+      "logo": "https://www.greatplainsumc.org/files/disaster_response/umcor-logo.jpg"
+    },
+    {
+      "name": "United Palestinian Appeal",
+      "logo": "https://upaconnect.org/wp-content/uploads/2020/06/upa-logo-2019-900x560.jpg"
+    },
+    { "name": "V-Day", "logo": "https://vday2020.wpengine.com/wp-content/uploads/2020/09/vdayutvs_web.jpg" },
+    {
+      "name": "Village Enterprise",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/VE_Logo.png"
+    },
+    {
+      "name": "Village Health Works",
+      "logo": "https://pbs.twimg.com/profile_images/882675119675592705/pkiI2EXN_400x400.jpg"
+    },
+    {
+      "name": "VillageReach",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/VillageReach_-_main_logo.jpg"
+    },
+    {
+      "name": "VisionSpring",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/VisionSpring_logo.jpg"
+    },
+    {
+      "name": "Vitamin Angels",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Primary_Vitamin_Angels_logo_2017.png"
+    },
+    { "name": "Water For People", "logo": "https://upload.wikimedia.org/wikipedia/en/2/26/Water_for_people_logo.jpg" },
+    {
+      "name": "Water Mission",
+      "logo": "https://watermission.org/wp-content/uploads/2015/11/facebook-share.png"
+    },
+    {
+      "name": "Water.org",
+      "logo": "https://yt3.ggpht.com/ytc/AKedOLQFvYEf42ouY70LcWgpwngPVaAPqWIE9EItSBflpw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    { "name": "Watoto Child Care Ministry, Inc.", "logo": "https://cdn.greatnonprofits.org/images/logos/9143049_300x300.jpg" },
+    {
+      "name": "White Ribbon Alliance",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/White_Ribbon_Alliance_Logo.jpg"
+    },
+    { "name": "Wings of Hope", "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Wings_of_Hope_logo.png" },
+    {
+      "name": "World Food Program USA",
+      "logo": "https://www.wfpusa.org/wp-content/uploads/2019/05/WFP-USA-Logo-800x537.png"
+    },
+    {
+      "name": "World Hope International",
+      "logo": "https://s3.amazonaws.com/whi-wp/wp-content/uploads/2019/01/08202348/fb-whi-logo.jpg"
+    },
+    {
+      "name": "World Medical Relief",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEWn0S8X4eB1w/company-logo_200_200/0/1548116961114?e=2147483647&v=beta&t=igM4LdTkFc-F4XoZqtj0YGjHo9z500gFC1BYQ-mD5hY"
+    },
+    {
+      "name": "World Neighbors",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/WN_Logo_Color.jpg"
+    },
+    {
+      "name": "World Pediatric Project",
+      "logo": "https://mma.prnewswire.com/media/1657054/20th_Logo_NoTag_Logo.jpg?p=twitter"
+    },
+    {
+      "name": "World Vision",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/World_Vision_new_logo.png"
+    },
+    {
+      "name": "Yale-China Association",
+      "logo": "https://centerbeijing.yale.edu/sites/default/files/styles/large/public/events/Yale-China%20Title.jpg?itok=Hh2IDj68"
+    },
+    {
+      "name": "Zakat Foundation of America",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/The_Zakat_Foundation_Logo.png/375px-The_Zakat_Foundation_Logo.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.chart-container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.chart-container > div {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.centered {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.spinner {
+    display: block;
+    position: fixed;
+    z-index: 1031; /* High z-index so it is on top of the page */
+    top: 50%;
+    right: 50%; /* or: left: 50%; */
+    margin-top: -100px; /* half of the elements height */
+    margin-right: -100px; /* half of the elements widht */
+  }

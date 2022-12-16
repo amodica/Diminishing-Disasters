@@ -1,0 +1,17 @@
+.data-table-container {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+.data-table-container > div {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+h2 > a {
+  color: blue
+}

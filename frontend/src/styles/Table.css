@@ -1,0 +1,19 @@
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-container {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.table-container > div {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+tbody > a:hover {
+  background-color: #d3d3d3;
+}

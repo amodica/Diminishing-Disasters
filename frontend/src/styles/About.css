@@ -1,0 +1,59 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.card-img-top {
+  object-fit: contain;
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  text-align: center;
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  align-items: center;
+}
+
+.toolCard {
+  filter: brightness(100%);
+}
+
+.toolCard:hover {
+  filter: brightness(90%);
+}
+
+.center-text {
+  text-align: center;
+}
+
+.card-spacing {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card-margins {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+p {
+  padding-left: 5%;
+  padding-right: 5%;
+}
